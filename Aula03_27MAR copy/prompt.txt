@@ -1,0 +1,41 @@
+Crie um infográfico visual, moderno e organizado, em português, descrevendo o processo de desenvolvimento de software baseado em Scrum adaptado para um projeto acadêmico.
+
+O infográfico deve conter:
+
+1. Título:
+"Processo de Engenharia de Software – Scrum Adaptado"
+
+2. Estrutura do Time:
+- Product Owner (PO): [Nome do aluno]
+- Scrum Master: [Nome do aluno]
+- Desenvolvedores: [Nomes dos alunos]
+
+3. Organização do Trabalho:
+- Duração do Sprint: [ex: 1 semana]
+- Duração do Projeto: [ex: 4 semanas]
+- Reuniões:
+  - Daily Scrum: [ex: 10 minutos, 3x por semana]
+  - Sprint Planning: [ex: início de cada sprint]
+  - Sprint Review: [ex: ao final de cada sprint]
+  - Retrospectiva: [ex: após cada sprint]
+
+4. Fluxo do Processo:
+Representar visualmente o ciclo:
+Backlog → Planejamento → Desenvolvimento → Testes → Revisão → Entrega → Retrospectiva → (ciclo reinicia)
+
+5. Artefatos:
+- Product Backlog
+- Sprint Backlog
+- Incremento do Produto
+
+6. Estilo visual:
+- Layout horizontal ou em fluxo circular
+- Ícones simples (equipe, calendário, tarefas, ciclo)
+- Cores suaves (azul, verde, cinza)
+- Visual limpo, acadêmico e profissional
+- Fácil leitura para inclusão em documentação técnica
+
+7. Objetivo:
+Transmitir de forma clara como o time se organiza, executa e evolui durante o projeto.
+
+Não incluir textos muito longos. Priorizar elementos visuais, setas e organização clara.
