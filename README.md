@@ -10,7 +10,7 @@
 > **Projeto Interdisciplinar**
 > *Aplicativo Desktop Análise e Desenvolvimento de 1o Semestre, 2026 para Gestão de Assinaturas de Jogos Sistemas Educacionais*
 > [Enunciado PI (pdf)](./PI_1ADS_2026_Messier_Assinaturas_Jogos.pdf) 
-
+> [template.docx](./ProjetoIntegrador_template.docx)
 
 * [Aula 01](./Aula01_13MAR/) (13/03) - Apresentação da Disciplina
 * [Aula 02](./Aula02_20MAR/) (20/03) - Processos da Engenharia de Software
