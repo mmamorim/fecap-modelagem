@@ -15,3 +15,5 @@
 * [Aula 01](./Aula01_13MAR/) (13/03) - Apresentação da Disciplina
 * [Aula 02](./Aula02_20MAR/) (20/03) - Processos da Engenharia de Software
 * [Aula 03](./Aula03_27MAR/) (27/03) - Requisitos de Software
+* **AULA 04 - (03/04) - FERIADO**
+* Aula 05 - Validação do PI (marcelo.amorim@fecap.br)
