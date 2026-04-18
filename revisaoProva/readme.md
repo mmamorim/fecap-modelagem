@@ -2,7 +2,7 @@
 
 # 📘 Fundamentos de Modelagem de Software
 
-Este repositório contém um conjunto de materiais de estudo para a disciplina de **Modelagem de Software e Arquitetura de Sistemas - FECAP**.  
+Este texto contém um conjunto de materiais de estudo para a prova 24/04 da disciplina de **Modelagem de Software e Arquitetura de Sistemas - FECAP**.  
 
 O objetivo é dar apoio para estudo e preparação para a avaliação, apresentando os principais conceitos trabalhados em aula de forma organizada, progressiva e textual.
 
