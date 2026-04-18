@@ -1,6 +1,6 @@
 <img src="../banner.svg" width="100%">
 
-# 📘 Fundamentos de Modelagem de Software
+# 📘 CONTEÚDO APOIO/BASE - REVISÃO PARA PROVA
 
 Este texto contém um conjunto de materiais de estudo para a prova 24/04 da disciplina de **Modelagem de Software e Arquitetura de Sistemas - FECAP**.  
 
