@@ -16,4 +16,6 @@
 * [Aula 02](./Aula02_20MAR/) (20/03) - Processos da Engenharia de Software
 * [Aula 03](./Aula03_27MAR/) (27/03) - Requisitos de Software
 * **AULA 04 - (03/04) - FERIADO**
-* Aula 05 - Validação do PI (marcelo.amorim@fecap.br)
+* Aula 05 - (10/04) - Validação do PI (marcelo.amorim@fecap.br)
+* [Aula 06](./revisaoProva/) (17/04) - Requisitos de Software
+    - [CONTEÚDO APOIO/BASE - REVISÃO PARA PROVA](./revisaoProva/) 
