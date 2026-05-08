@@ -138,8 +138,6 @@ Cada camada possui uma responsabilidade específica.
 
 ---
 
-<img src="./teste.svg" width="10%">
-
 # Front-end e Back-end
 
 ## Front-end
