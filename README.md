@@ -18,4 +18,7 @@
 * **AULA 04 - (03/04) - FERIADO**
 * Aula 05 - (10/04) - Validação do PI (marcelo.amorim@fecap.br)
 * [Aula 06](./revisaoProva/) (17/04) - Requisitos de Software
-    - [CONTEÚDO APOIO/BASE - REVISÃO PARA PROVA](./revisaoProva/) 
+    - [CONTEÚDO APOIO/BASE - REVISÃO PARA PROVA](./revisaoProva/)
+* **AULA 07 - (01/05) - FERIADO**
+* [Aula 08](./Aula08_08MAI/) (08/05) - Casos de Uso e Arquitetura de Sistemas
+    - [ADAPTAÇÃO PI - FASE 2 - SEÇÃO 6 - ARQUITETURA DE SISTEMA ](./Aula08_08MAI/PI2-Adaptacao.md)
