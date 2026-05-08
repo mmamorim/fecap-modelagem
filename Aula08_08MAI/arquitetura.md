@@ -139,6 +139,7 @@ Cada camada possui uma responsabilidade específica.
 ---
 
 # Front-end e Back-end
+> ### Talvez o exemplo mais comum de arquitetura usada atualmente
 
 ## Front-end
 
