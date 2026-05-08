@@ -134,11 +134,11 @@ Um modelo muito comum é a arquitetura em camadas.
 
 Cada camada possui uma responsabilidade específica.
 
-<img src="./arquitetura.png" width="10%">
+<img src="./arquitetura.png" width="100%">
 
 ---
 
-<img src="./teste.svg" width="100%">
+<img src="./teste.svg" width="10%">
 
 # Front-end e Back-end
 
