@@ -20,5 +20,7 @@
 * [Aula 06](./revisaoProva/) (17/04) - Requisitos de Software
     - [CONTEÚDO APOIO/BASE - REVISÃO PARA PROVA](./revisaoProva/)
 * **AULA 07 - (01/05) - FERIADO**
-* [Aula 08](./Aula08_08MAI/) (08/05) - Casos de Uso e Arquitetura de Sistemas
+* [Aula 08](./Aula08_08MAI/) (08/05) 
+    - [Casos de Uso](./Aula08_08MAI/readme.md) 
+    - [Arquitetura de Sistemas](./Aula08_08MAI/arquitetura.md)
     - [ADAPTAÇÃO PI - FASE 2 - SEÇÃO 6 - ARQUITETURA DE SISTEMA ](./Aula08_08MAI/PI2-Adaptacao.md)
