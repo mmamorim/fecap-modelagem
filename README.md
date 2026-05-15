@@ -24,3 +24,5 @@
     - [Casos de Uso](./Aula08_08MAI/readme.md) 
     - [Arquitetura de Sistemas](./Aula08_08MAI/arquitetura.md)
     - [ADAPTAÇÃO PI - FASE 2 - SEÇÃO 6 - ARQUITETURA DE SISTEMA ](./Aula08_08MAI/PI2-Adaptacao.md)
+* [Aula 09](./Aula09_15MAI/) (15/05)
+    - Atividade Investigativa
